@@ -1,0 +1,32 @@
+.root {
+  overflow: hidden;
+  width: 100%;
+}
+
+.coma-header {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  height: 60px;
+  width: 100%;
+  border-bottom: 1px solid #eee;
+  top: 0;
+}
+
+.coma-main {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background: #33333320;
+  overflow: hidden;
+}
+
+.coma-footer {
+  display: flex;
+  height: 60px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+  position: absolute;
+  bottom: 0;
+}
