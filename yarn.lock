@@ -1068,6 +1068,24 @@
   resolved "https://npm-registry.yy.com/@types/json-schema/download/@types/json-schema-7.0.5.tgz#dcce4430e64b443ba8945f0290fb564ad5bac6dd"
   integrity sha1-3M5EMOZLRDuolF8CkPtWStW6xt0=
 
+"@types/node@^14.6.1":
+  version "14.6.1"
+  resolved "https://npm-registry.yy.com/@types/node/download/@types/node-14.6.1.tgz#fdf6f6c6c73d3d8eee9c98a9a0485bc524b048d7"
+  integrity sha1-/fb2xsc9PY7unJipoEhbxSSwSNc=
+
+"@types/prop-types@*":
+  version "15.7.3"
+  resolved "https://npm-registry.yy.com/@types/prop-types/download/@types/prop-types-15.7.3.tgz#2ab0d5da2e5815f94b0b9d4b95d1e5f243ab2ca7"
+  integrity sha1-KrDV2i5YFflLC51LldHl8kOrLKc=
+
+"@types/react@^16.9.48":
+  version "16.9.48"
+  resolved "https://npm-registry.yy.com/@types/react/download/@types/react-16.9.48.tgz#d3387329f070d1b1bc0ff4a54a54ceefd5a8485c"
+  integrity sha1-0zhzKfBw0bG8D/SlSlTO79WoSFw=
+  dependencies:
+    "@types/prop-types" "*"
+    csstype "^3.0.2"
+
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
   resolved "https://npm-registry.yy.com/@webassemblyjs/ast/download/@webassemblyjs/ast-1.9.0.tgz#bd850604b4042459a5a41cd7d338cbed695ed964"
@@ -2059,6 +2077,11 @@ cssnano-simple@1.0.7:
   dependencies:
     cssnano-preset-simple "1.1.7"
     postcss "^7.0.32"
+
+csstype@^3.0.2:
+  version "3.0.3"
+  resolved "https://npm-registry.yy.com/csstype/download/csstype-3.0.3.tgz#2b410bbeba38ba9633353aff34b05d9755d065f8"
+  integrity sha1-K0ELvro4upYzNTr/NLBdl1XQZfg=
 
 cyclist@^1.0.1:
   version "1.0.1"
@@ -4576,6 +4599,11 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://npm-registry.yy.com/typedarray/download/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typescript@^4.0.2:
+  version "4.0.2"
+  resolved "https://npm-registry.yy.com/typescript/download/typescript-4.0.2.tgz#7ea7c88777c723c681e33bf7988be5d008d05ac2"
+  integrity sha1-fqfIh3fHI8aB4zv3mIvl0AjQWsI=
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
